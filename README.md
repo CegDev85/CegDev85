@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CegDev85
 - 👀 I’m interested in ...front end and being creative.
-- 🌱 I’m currently learning ...pyhton, html, css, flask.
+- 🌱 I’m currently learning ...python, html, css, flask.
 - 💞️ I’m looking to collaborate on ...anything I guess. Thats probably one of the best ways to grow.
 - 📫 How to reach me ...here I imagine.
 
